@@ -6,7 +6,7 @@ Key Features:
 - Real-time object detection: Utilizes YOLOv8 to accurately identify students, their faces, and other relevant objects in the exam environment.
 - Activity tracking: Monitors student behavior, such as head movements, hand gestures, and object interactions, to detect potential cheating activities.
 - Anomaly detection: Leverages machine learning algorithms to identify unusual patterns or behaviors that may indicate cheating.
-- Alert system: Generates real-time alerts to proctors or administrators when suspicious activities are detected. 
+- Alert system: Generates real-time alerts to proctors or administrators when suspicious activities are detected and saves student name and time when he was cheating in an excel sheet. 
 - Integration capabilities: Can be easily integrated into existing exam proctoring systems or surveillance infrastructure.
 
 ![7983dfca-94f1-4e96-ba96-3492e89149bc](https://github.com/user-attachments/assets/8cd81433-096f-43fa-9fc5-84554150c2d7)
